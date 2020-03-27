@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
+=======
+
+# videos
+docs/*.mp4
+>>>>>>> implementação do backend
